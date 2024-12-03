@@ -11,3 +11,6 @@
 1.
 ## Педали
 1.
+
+Как можно улучшить
+https://shop.vkb-sim.pro/items/sem-v/
