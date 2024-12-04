@@ -12,6 +12,7 @@ https://www.youtube.com/playlist?list=PLKYEPEF-53lQfCmTbhLmb_mqIad8tjHRm
 5. https://www.youtube.com/watch?v=ZAZ-ROsRX1I
 6. https://www.youtube.com/watch?v=EtNxH_N4kH8
 7. https://www.youtube.com/watch?v=DWYqu1Il9Ps
+8. https://youtu.be/TkpqBMOE5Kk
 
 ## Настройка обзора
 1. https://www.youtube.com/watch?v=5r16oYQJtJQ
