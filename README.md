@@ -20,14 +20,16 @@
         - на такой-то минуте то-то
     - https://www.youtube.com/watch?v=71i_Pd_047k
         - на такой-то минуте то-то
-    - 
+    - https://www.youtube.com/watch?v=XyUw2v9ZVCE
 2. Як-9
     - https://www.youtube.com/watch?v=qdHLhchdNEU
 3. Ta-152
     - https://www.youtube.com/watch?v=LY5SuI9CH8Q
     - https://www.youtube.com/watch?v=bNeCHnmi6IY
-4. 
-5. 
+4. Tempest Mk.V ser.2
+    - https://www.youtube.com/watch?v=2D7PXszty9g
+5. Ju-88
+    - https://www.youtube.com/watch?v=8UyonJIEkoY
 6. 
 
 # Настройка джойстиков
