@@ -3,13 +3,15 @@
 
 1. https://www.youtube.com/watch?v=P7gN2iFdngI
     - на такой-то минуте то-то
-2. 
+2. https://www.youtube.com/watch?v=1HzM_CY7Dso
+3. https://www.youtube.com/watch?v=S3WT3M2A4Zw
 
 ## Настройка обзора
 1. https://www.youtube.com/watch?v=5r16oYQJtJQ
     - на такой-то минуте то-то
 2. https://www.youtube.com/watch?v=o7v-N_HcYh8
 3. https://www.youtube.com/watch?v=WUXfza_41_I
+4. https://www.youtube.com/watch?v=rIKNCf0vKFE
 
 ## Самолёты
 1. МиГ-3 24-серии
@@ -39,3 +41,7 @@
 
 Как можно улучшить
 https://shop.vkb-sim.pro/items/sem-v/
+
+
+# История игры
+1. https://www.youtube.com/watch?v=fVimnAGXgjw
