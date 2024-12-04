@@ -8,7 +8,8 @@
 ## Настройка обзора
 1. https://www.youtube.com/watch?v=5r16oYQJtJQ
     - на такой-то минуте то-то
-2. 
+2. https://www.youtube.com/watch?v=o7v-N_HcYh8
+3. https://www.youtube.com/watch?v=WUXfza_41_I
 
 ## Самолёты
 1. МиГ-3 24-серии
@@ -17,8 +18,13 @@
     - https://www.youtube.com/watch?v=71i_Pd_047k
         - на такой-то минуте то-то
     - 
-2. 
-3. 
+2. Як-9
+    - https://www.youtube.com/watch?v=qdHLhchdNEU
+3. Ta-152
+    - https://www.youtube.com/watch?v=LY5SuI9CH8Q
+4. 
+5. 
+6. 
 
 # Настройка джойстиков
 ## РУД
