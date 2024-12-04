@@ -5,6 +5,7 @@
     - на такой-то минуте то-то
 2. https://www.youtube.com/watch?v=1HzM_CY7Dso
 3. https://www.youtube.com/watch?v=S3WT3M2A4Zw
+4. https://www.youtube.com/watch?v=6btyr6c8Ie0
 
 ## Настройка обзора
 1. https://www.youtube.com/watch?v=5r16oYQJtJQ
@@ -24,6 +25,7 @@
     - https://www.youtube.com/watch?v=qdHLhchdNEU
 3. Ta-152
     - https://www.youtube.com/watch?v=LY5SuI9CH8Q
+    - https://www.youtube.com/watch?v=bNeCHnmi6IY
 4. 
 5. 
 6. 
