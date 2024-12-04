@@ -1,6 +1,9 @@
 # Обучение
 **TODO** Расписать, что в видео полезного
 
+https://www.youtube.com/playlist?list=PLKYEPEF-53lQfCmTbhLmb_mqIad8tjHRm
+
+
 1. https://www.youtube.com/watch?v=P7gN2iFdngI
     - на такой-то минуте то-то
 2. https://www.youtube.com/watch?v=1HzM_CY7Dso
