@@ -12,6 +12,9 @@
 1. МиГ-3 24-серии
     - https://www.youtube.com/watch?v=-w59UpZtwFE
         - на такой-то минуте то-то
+    - https://www.youtube.com/watch?v=71i_Pd_047k
+        - на такой-то минуте то-то
+    - 
 2. 
 3. 
 
