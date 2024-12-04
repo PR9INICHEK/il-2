@@ -1,5 +1,6 @@
 # Обучение
 **TODO** Расписать, что в видео полезного
+
 1. https://www.youtube.com/watch?v=P7gN2iFdngI
     - 
 2. 
@@ -8,7 +9,10 @@
 1.
 
 ## Самолёты
-1. 
+1. МиГ-3 24-серии
+    - https://www.youtube.com/watch?v=-w59UpZtwFE
+2. 
+3. 
 
 # Настройка джойстиков
 ## РУД
