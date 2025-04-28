@@ -45,7 +45,7 @@ https://www.youtube.com/playlist?list=PLKYEPEF-53lQfCmTbhLmb_mqIad8tjHRm
 ## РУД
 ### Ручка WWII THQ(https://shop.vkb-sim.pro/items/wwii-thq-grip/) на базе GNX-THQ(https://shop.vkb-sim.pro/items/modul-gnx-thq/)
 1. Две кнопки сзади для зума, самого высокого и чуть меньше
-**TODO** Добавить инфу, что за кнопки на джойстике, как называются в игре и что за сам джойстик
+   - **TODO** Добавить инфу, что за кнопки на джойстике, как называются в игре и что за сам джойстик
 2. 
 ## РУС
 1.
