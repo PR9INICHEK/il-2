@@ -58,7 +58,10 @@
 # Обучение
 **TODO** Расписать, что в видео полезного
 
-https://www.youtube.com/playlist?list=PLKYEPEF-53lQfCmTbhLmb_mqIad8tjHRm
+1. https://www.youtube.com/playlist?list=PLKYEPEF-53lQfCmTbhLmb_mqIad8tjHRm
+2. https://youtu.be/SnFS1d2cEK8?si=8zOCOpF6SRatXKuN&t=55 Тут подсказки, вместо фотокарточки
+3. 
+
 
 
 1. https://www.youtube.com/watch?v=P7gN2iFdngI
