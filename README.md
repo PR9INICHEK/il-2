@@ -47,23 +47,8 @@
     - 
 4.  
 
-
-
-
-## МиГ-3 24 серия - Настройка
-
-### Видео
-1. https://www.youtube.com/watch?v=sypjrcofGu8
-
 # Обучение
 **TODO** Расписать, что в видео полезного
-
-1. https://www.youtube.com/playlist?list=PLKYEPEF-53lQfCmTbhLmb_mqIad8tjHRm
-2. https://youtu.be/SnFS1d2cEK8?si=8zOCOpF6SRatXKuN&t=55 Тут подсказки, вместо фотокарточки
-3. 
-
-
-
 1. https://www.youtube.com/watch?v=P7gN2iFdngI
     - на такой-то минуте то-то
 2. https://www.youtube.com/watch?v=1HzM_CY7Dso
@@ -83,15 +68,6 @@
 5. https://www.youtube.com/watch?v=o_9PI-gmK-M
 
 ## Самолёты
-1. МиГ-3 24-серии
-    - https://www.youtube.com/watch?v=-w59UpZtwFE
-        - на такой-то минуте то-то
-    - https://www.youtube.com/watch?v=71i_Pd_047k
-        - на такой-то минуте то-то
-    - https://www.youtube.com/watch?v=XyUw2v9ZVCE
-    - 
-    - https://www.youtube.com/watch?v=EMtWo_Y9sfw
-    - 
 2. Як-9
     - https://www.youtube.com/watch?v=qdHLhchdNEU
 3. Ta-152
