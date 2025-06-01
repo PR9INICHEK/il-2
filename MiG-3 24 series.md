@@ -9,8 +9,8 @@
 5. https://www.youtube.com/watch?v=71i_Pd_047k
      - на такой-то минуте то-то
 6. https://www.youtube.com/watch?v=XyUw2v9ZVCE
-    - 
+     - 
 7. https://www.youtube.com/watch?v=EMtWo_Y9sfw
-    -
+     - 
 8. https://www.youtube.com/watch?v=Q2ekp3scjSM
 9. 
