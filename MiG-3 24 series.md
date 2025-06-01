@@ -14,7 +14,8 @@
      - на такой-то минуте то-то
 8. https://www.youtube.com/watch?v=Q2ekp3scjSM
      - на такой-то минуте то-то
-9. 
+9. [ИЛ-2 ШТУРМОВИК: Тренировочный полет по кругу на самолете МиГ-3 | IL-2 Series](https://www.youtube.com/watch?v=_lQ3SPAddKg)
+     - на такой-то минуте то-то
 
 ## Тема на форуме
 1. [МИГ-3, Обучающие материалы](https://forum.il2sturmovik.ru/topic/3754-%D0%BC%D0%B8%D0%B3-3-%D0%BE%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/)
