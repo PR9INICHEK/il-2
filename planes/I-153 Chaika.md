@@ -5,4 +5,5 @@
 
 ## Просто видео
 1. [I-153 Chaika | 6 Kills in a Flight | Outro  | Arianne Scharfi](https://www.youtube.com/watch?v=_dkVDjs74C0)
-2. 
+2. [We Took It To Multiplayer. It's Insane. | Smigol Time!](https://www.youtube.com/watch?v=HvIJs4XMG3Q)
+3. 
