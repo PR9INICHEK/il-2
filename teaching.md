@@ -10,6 +10,8 @@
 6. https://www.youtube.com/watch?v=EtNxH_N4kH8
 7. https://www.youtube.com/watch?v=DWYqu1Il9Ps
 8. https://youtu.be/TkpqBMOE5Kk
+9. [Несколько советов для новичков в Ил-2 Штурмовик Битва за Сталинград (Ил-2 БЗС, Il-2 BoS, Ил2 БЗХ). | iluha](https://www.youtube.com/watch?v=1hucMhgi3kg)
+    - на такой-то минуте то-то
 
 ## Настройка обзора
 1. https://www.youtube.com/watch?v=5r16oYQJtJQ
