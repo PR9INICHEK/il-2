@@ -20,7 +20,11 @@
 3. https://www.youtube.com/watch?v=WUXfza_41_I
 4. https://www.youtube.com/watch?v=rIKNCf0vKFE
 5. https://www.youtube.com/watch?v=o_9PI-gmK-M
-6. [Ил-2 Штурмовик. Битва за Сталинград. Настройка обзора кабины. | ТАНКИСТ](https://www.youtube.com/watch?v=JRlOhNFVkrI) 
+6. [Ил-2 Штурмовик. Битва за Сталинград. Настройка обзора кабины. | ТАНКИСТ](https://www.youtube.com/watch?v=JRlOhNFVkrI)
+
+## Playlists
+1. [Летная школа (обучающие видео) | iluha](https://www.youtube.com/watch?v=11n14X0W_to&list=PLFPwCmZWHukBmsRmD4FqQGorpo_CZ66wg)
+2. 
 
 ## Разобрать
 1. ["Школа MK.Mr.X" - обучение виртуальных пилотов](https://forum.il2sturmovik.ru/topic/4923-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-mkmrx-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BE%D0%B2/)
